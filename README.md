@@ -17,6 +17,6 @@ https://doi.org/10.1016/j.chb.2016.12.033 と https://doi.org/10.1109/TLT.2020.3
 ### 教育デザイン
 UNESCO賛同の https://doi.org/10.1145/3313831.3376727 と https://ai4k12.org/gradeband-progression-charts/ に準拠しており、学習者はいくつかのAIコンピテンシーの獲得が期待できます。
 ## 業績
-植松彩奈，齋藤大輔，鷲崎弘宜，深澤 良彰，「AI・ML教育のためのローグライクゲーム」，日本デジタルゲーム学会 第14回年次大会 インタラクティブセッション, 2024.2.23-25(採択済, 発表済)．
+植松彩奈，齋藤大輔，鷲崎弘宜，深澤 良彰，「AI・ML教育のためのローグライクゲーム」，日本デジタルゲーム学会 第14回年次大会 インタラクティブセッション, 2024.2.23-25(採択済, 発表済)．\n
 Ayana Uematsu, Daisuke Saito, Hironori Washizaki, Yoshiaki Fukazawa, “Roguelike Game for AI/ML Education”, DiGRA Conference 2024: Playgrounds, 2024.7.1-5（採択済，発表予定）．
 
