@@ -4,8 +4,6 @@ https://aigame.programming.education/
 ## 概要
 このゲームは、K-12対象にAI/MLの概念の理解を目的とした、ローグライクゲームです。  
 ![DiGRAjp_植松彩奈_ポスター_page-0001](https://github.com/Ayana326/Roguelike-Game-for-AI-ML-Education/assets/120101889/fd3fc9be-bc33-4396-8d77-c1a45ed474bc)  
-ゲームフローは下図のとおりです。
-![image](https://github.com/Ayana326/Roguelike-Game-for-AI-ML-Education/assets/120101889/41a6b873-b78f-4844-b7f8-026e8eaf7b4b)
 ## システム構成
 このゲームでは、機械学習モデルの精度がプレイヤーの攻撃力となります。  
 その取得方法は、下図のとおりです。  
